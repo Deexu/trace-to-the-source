@@ -1,0 +1,8 @@
+{
+  "name": "长白山野山参全过程数据管理平台",
+  "description": "长白山野山参全过程数据管理平台体验网站，数字化全过程管控、环境感知终端、全天候识别监控与农事数字台账。",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
